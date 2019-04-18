@@ -1,0 +1,8 @@
+g:space_vim_filetype_hi_groups	space_vim_theme.txt	/*g:space_vim_filetype_hi_groups*
+g:space_vim_italic	space_vim_theme.txt	/*g:space_vim_italic*
+g:space_vim_italicize_strings	space_vim_theme.txt	/*g:space_vim_italicize_strings*
+g:space_vim_plugin_hi_groups	space_vim_theme.txt	/*g:space_vim_plugin_hi_groups*
+g:space_vim_transp_bg	space_vim_theme.txt	/*g:space_vim_transp_bg*
+space_vim-options	space_vim_theme.txt	/*space_vim-options*
+space_vim_theme	space_vim_theme.txt	/*space_vim_theme*
+space_vim_theme.txt	space_vim_theme.txt	/*space_vim_theme.txt*
